@@ -1,4 +1,3 @@
-import { baseUrl, repositoriesQuantity } from "./variables.js"
 import { getUser } from "./services/user.js"
 import { getRepositories } from "./services/repositories.js"
 import { user } from "./objects/user.js"
